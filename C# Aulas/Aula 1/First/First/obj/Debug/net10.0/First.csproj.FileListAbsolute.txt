@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\bin\Debug\net10.0\First.exe
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\bin\Debug\net10.0\First.deps.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\bin\Debug\net10.0\First.runtimeconfig.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\bin\Debug\net10.0\First.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\bin\Debug\net10.0\First.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\refint\First.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\First.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\First\First\obj\Debug\net10.0\ref\First.dll

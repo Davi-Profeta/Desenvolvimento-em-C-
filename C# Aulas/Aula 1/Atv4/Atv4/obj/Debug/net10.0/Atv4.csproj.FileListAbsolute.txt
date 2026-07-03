@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\bin\Debug\net10.0\Atv4.exe
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\bin\Debug\net10.0\Atv4.deps.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\bin\Debug\net10.0\Atv4.runtimeconfig.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\bin\Debug\net10.0\Atv4.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\bin\Debug\net10.0\Atv4.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\refint\Atv4.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\Atv4.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas\Aula 1\Atv4\Atv4\obj\Debug\net10.0\ref\Atv4.dll

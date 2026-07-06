@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\bin\Debug\net10.0\Atv8.exe
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\bin\Debug\net10.0\Atv8.deps.json
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\bin\Debug\net10.0\Atv8.runtimeconfig.json
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\bin\Debug\net10.0\Atv8.dll
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\bin\Debug\net10.0\Atv8.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.dll
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\refint\Atv8.dll
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\Atv8.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\source\repos\Atv8\Atv8\obj\Debug\net10.0\ref\Atv8.dll

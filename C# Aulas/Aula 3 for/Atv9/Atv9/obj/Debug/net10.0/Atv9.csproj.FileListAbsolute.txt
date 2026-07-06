@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\bin\Debug\net10.0\Atv9.exe
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\bin\Debug\net10.0\Atv9.deps.json
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\bin\Debug\net10.0\Atv9.runtimeconfig.json
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\bin\Debug\net10.0\Atv9.dll
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\bin\Debug\net10.0\Atv9.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.dll
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\refint\Atv9.dll
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\Atv9.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\source\repos\Atv9\Atv9\obj\Debug\net10.0\ref\Atv9.dll

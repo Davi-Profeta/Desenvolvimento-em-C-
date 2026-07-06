@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\bin\Debug\net10.0\Atv5.exe
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\bin\Debug\net10.0\Atv5.deps.json
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\bin\Debug\net10.0\Atv5.runtimeconfig.json
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\bin\Debug\net10.0\Atv5.dll
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\bin\Debug\net10.0\Atv5.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.dll
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\refint\Atv5.dll
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.pdb
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\Atv5.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\source\repos\Atv5\Atv5\obj\Debug\net10.0\ref\Atv5.dll

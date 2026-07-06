@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\bin\Debug\net8.0\Atv3.exe
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\bin\Debug\net8.0\Atv3.deps.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\bin\Debug\net8.0\Atv3.runtimeconfig.json
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\bin\Debug\net8.0\Atv3.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\bin\Debug\net8.0\Atv3.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\refint\Atv3.dll
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.pdb
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\Atv3.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\Downloads\C# Aulas-20260703T163817Z-3-001\C# Aulas\Aula 2 If-Else\Atv3\obj\Debug\net8.0\ref\Atv3.dll

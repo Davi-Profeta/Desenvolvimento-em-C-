@@ -1,0 +1,14 @@
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\bin\Debug\net10.0\Atv7.exe
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\bin\Debug\net10.0\Atv7.deps.json
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\bin\Debug\net10.0\Atv7.runtimeconfig.json
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\bin\Debug\net10.0\Atv7.dll
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\bin\Debug\net10.0\Atv7.pdb
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.AssemblyInfoInputs.cache
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.AssemblyInfo.cs
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.dll
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\refint\Atv7.dll
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.pdb
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\Atv7.genruntimeconfig.cache
+C:\Users\Aluno_Tarde\Downloads\Kksksk\Atv7\Atv7\obj\Debug\net10.0\ref\Atv7.dll
